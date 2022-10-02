@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayseAccr
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java SpringBoot
-- 📫 How to reach me aysegulacar1107@gmail.com
+- 📫 How to reach me acaraysegul1107@gmail.com
 
 <!---
 ayseAccr/ayseAccr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
